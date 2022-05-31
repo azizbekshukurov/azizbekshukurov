@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Azizbek 👋
+Hi there, I'm Azizbek 👋
 - 💻 I’m currently learning javaScript
 
 Email: azizbekshukurov11@gmail.com
